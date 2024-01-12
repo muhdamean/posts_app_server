@@ -1,0 +1,8 @@
+//install and activate dart_frog_cli
+dart pub global activate dart_frog_cli
+
+//export path to profile
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+//Run using 
+dart_frog dev
